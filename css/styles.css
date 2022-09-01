@@ -1,0 +1,14 @@
+body {
+	background: black;
+	color: white;
+}
+
+#containerName {
+	width: 100%;
+	margin-left: 40%;
+}
+
+#containerColor {
+	width: 700px;
+	margin-left: 30%;
+}
